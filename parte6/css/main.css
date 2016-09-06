@@ -1,1 +1,33 @@
-/* Pon tu código css aqui */
+body{
+	margin:0px;
+	padding:0px;
+}
+.rosa{	
+	width:200px;
+	height:200px; 
+	background-color:#ee3e64;
+	left:0px;
+	top:0px;
+}
+.azul{
+	width:200px;
+	height:200px;
+	background-color:#44accf;
+	position: absolute;
+	left:200px;
+	top:200px;
+}
+.verde{
+	background-color:#b7d84b;
+	width:200px;
+	height:200px;
+	left:0px;
+	bottom:0px;
+}
+.amarillo{
+	background-color:#E0F706;
+	width:200px;
+	height:200px;
+	right:0px;
+	bottom:0px;
+}
